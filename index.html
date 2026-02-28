@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="bn">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>মেঘলা বিকেল - Meghla Bikel</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&family=Noto+Serif+Bengali:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <!-- Floating Particles Background -->
+    <div class="particles-container" id="particles"></div>
+
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="#" class="logo" onclick="showHome()">
+                <img src="images/logo.jpg" alt="Meghla Bikel Logo" class="logo-img">
+                <span>MEGHLA BIKEL</span>
+            </a>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="#" onclick="showHome()" class="active">হোম</a></li>
+                <li><a href="#" onclick="showGolpo()">গল্প</a></li>
+                <li><a href="#" onclick="showUponnash()">উপন্যাস</a></li>
+                <li><a href="#" onclick="showShayari()">শায়রি</a></li>
+            </ul>
+            <div class="hamburger" id="hamburger" onclick="toggleMenu()">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content Container -->
+    <main class="main-container">
+        <!-- Homepage Section -->
+        <section class="homepage" id="homepage">
+            <div class="hero-section">
+                <h1 class="hero-title reveal">মেঘলা বিকেল</h1>
+                <p class="hero-subtitle reveal">আপনার পছন্দের গল্প, উপন্যাস এবং শায়রির জগতে স্বাগতম</p>
+                <p class="hero-description reveal">Welcome to the world of stories, novels, and poetry</p>
+            </div>
+
+            <div class="category-grid">
+                <!-- Golpo Card -->
+                <div class="category-card glass reveal" onclick="showGolpo()">
+                    <div class="card-icon">
+                        <i class="fas fa-book"></i>
+                    </div>
+                    <h2 class="card-title">গল্প</h2>
+                    <p class="card-subtitle">Golpo</p>
+                    <p class="card-description">ভূতের গল্প থেকে রোমান্টিক প্রেমের গল্প - সবই পাবেন এখানে</p>
+                    <div class="card-arrow">
+                        <i class="fas fa-arrow-right"></i>
+                    </div>
+                </div>
+
+                <!-- Uponnash Card -->
+                <div class="category-card glass reveal" onclick="showUponnash()">
+                    <div class="card-icon">
+                        <i class="fas fa-scroll"></i>
+                    </div>
+                    <h2 class="card-title">উপন্যাস</h2>
+                    <p class="card-subtitle">Uponnash</p>
+                    <p class="card-description">মন ছুঁয়ে যাওয়া উপন্যাস পড়ুন সম্পূর্ণ বিনামূল্যে</p>
+                    <div class="card-arrow">
+                        <i class="fas fa-arrow-right"></i>
+                    </div>
+                </div>
+
+                <!-- Shayari Card -->
+                <div class="category-card glass reveal" onclick="showShayari()">
+                    <div class="card-icon">
+                        <i class="fas fa-feather-alt"></i>
+                    </div>
+                    <h2 class="card-title">শায়রি</h2>
+                    <p class="card-subtitle">Shayari</p>
+                    <p class="card-description">রোমান্টিক, দুঃখের এবং মজার শায়রি বিভিন্ন ভাষায়</p>
+                    <div class="card-arrow">
+                        <i class="fas fa-arrow-right"></i>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Golpo Section -->
+        <section class="golpo-section hidden" id="golpoSection">
+            <div class="section-header reveal">
+                <button class="back-btn" onclick="showHome()">
+                    <i class="fas fa-arrow-left"></i> ফিরে যান
+                </button>
+                <h1 class="section-title">গল্পের বিভাগ</h1>
+                <p class="section-subtitle">আপনার পছন্দের গল্পের বিভাগটি বেছে নিন</p>
+            </div>
+
+            <!-- Golpo Subcategories -->
+            <div class="subcategory-grid" id="golpoSubcategories">
+                <div class="subcategory-card glass reveal" onclick="showGolpoStories('vuter')">
+                    <div class="subcategory-icon">
+                        <i class="fas fa-ghost"></i>
+                    </div>
+                    <h3>ভূতের গল্প</h3>
+                    <p>ভয়ঙ্কর এবং রহস্যময় ভূতের গল্প</p>
+                </div>
+                <div class="subcategory-card glass reveal" onclick="showGolpoStories('romantic')">
+                    <div class="subcategory-icon">
+                        <i class="fas fa-heart"></i>
+                    </div>
+                    <h3>রোমান্টিক লাভ স্টোরি</h3>
+                    <p>মন ছুঁয়ে যাওয়া প্রেমের গল্প</p>
+                </div>
+                <div class="subcategory-card glass reveal" onclick="showGolpoStories('sad')">
+                    <div class="subcategory-icon">
+                        <i class="fas fa-sad-tear"></i>
+                    </div>
+                    <h3>স্যাড লাভ স্টোরি</h3>
+                    <p>কাঁদানো দুঃখের প্রেমের গল্প</p>
+                </div>
+            </div>
+
+            <!-- Story List Container -->
+            <div class="story-list-container hidden" id="storyListContainer">
+                <button class="back-btn" onclick="backToGolpoSubcategories()">
+                    <i class="fas fa-arrow-left"></i> বিভাগে ফিরে যান
+                </button>
+                <h2 class="category-title" id="storyCategoryTitle"></h2>
+                <div class="story-grid" id="storyGrid"></div>
+            </div>
+
+            <!-- Story Reading Container -->
+            <div class="story-reading-container hidden" id="storyReadingContainer">
+                <button class="back-btn" onclick="backToStoryList()">
+                    <i class="fas fa-arrow-left"></i> গল্প তালিকায় ফিরে যান
+                </button>
+                <div class="story-content-wrapper">
+                    <h1 class="story-title" id="storyTitle"></h1>
+                    <div class="story-meta">
+                        <span id="storyAuthor"></span>
+                        <span id="storyDate"></span>
+                    </div>
+                    <div class="story-content" id="storyContent"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Uponnash Section -->
+        <section class="uponnash-section hidden" id="uponashSection">
+            <div class="section-header reveal">
+                <button class="back-btn" onclick="showHome()">
+                    <i class="fas fa-arrow-left"></i> ফিরে যান
+                </button>
+                <h1 class="section-title">উপন্যাস সমগ্র</h1>
+                <p class="section-subtitle">পড়ুন আপনার পছন্দের উপন্যাস</p>
+            </div>
+
+            <!-- Novel List -->
+            <div class="novel-list" id="novelList">
+                <div class="novel-card glass reveal" onclick="readNovel('poddoja')">
+                    <div class="novel-cover">
+                        <i class="fas fa-book-open"></i>
+                    </div>
+                    <div class="novel-info">
+                        <h3>কুয়াশায় ঘেরা কৃষ্ণচূড়া</h3>
+                        <p class="novel-author">লেখক: অজানা</p>
+                        <p class="novel-desc">একটি মেয়ের জীবন সংগ্রামের গল্প...</p>
+                        <button class="read-btn">পড়ুন <i class="fas fa-arrow-right"></i></button>
+                    </div>
+                </div>
+                <div class="novel-card glass reveal" onclick="readNovel('amrittu')">
+                    <div class="novel-cover">
+                        <i class="fas fa-heart"></i>
+                    </div>
+                    <div class="novel-info">
+                        <h3>অমৃত্তু ভালোবাসি তোকে</h3>
+                        <p class="novel-author">লেখক: অজানা</p>
+                        <p class="novel-desc">এক অমর প্রেমের কাহিনী...</p>
+                        <button class="read-btn">পড়ুন <i class="fas fa-arrow-right"></i></button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Novel Reading Page -->
+            <div class="novel-reading-page hidden" id="novelReadingPage">
+                <div class="reading-toolbar">
+                    <button class="toolbar-btn" onclick="backToNovelList()">
+                        <i class="fas fa-arrow-left"></i> তালিকায় ফিরে যান
+                    </button>
+                    <div class="font-controls">
+                        <span>ফন্ট সাইজ:</span>
+                        <button class="font-btn" onclick="decreaseFontSize()">A-</button>
+                        <button class="font-btn" onclick="increaseFontSize()">A+</button>
+                    </div>
+                </div>
+                <div class="reading-content-wrapper">
+                    <h1 class="novel-reading-title" id="novelReadingTitle"></h1>
+                    <div class="novel-reading-content" id="novelReadingContent"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Shayari Section -->
+        <section class="shayari-section hidden" id="shayariSection">
+            <div class="section-header reveal">
+                <button class="back-btn" onclick="showHome()">
+                    <i class="fas fa-arrow-left"></i> ফিরে যান
+                </button>
+                <h1 class="section-title">শায়রি ক্লাব</h1>
+                <p class="section-subtitle">আবেগের কবিতা, মনের কথা</p>
+            </div>
+
+            <!-- Shayari Categories -->
+            <div class="shayari-categories" id="shayariCategories">
+                <div class="shayari-category-card glass reveal" onclick="showLanguageSelection('romantic')">
+                    <div class="category-icon"><i class="fas fa-heart"></i></div>
+                    <h3>রোমান্টিক শায়রি</h3>
+                    <p>ভালোবাসার কবিতা</p>
+                </div>
+                <div class="shayari-category-card glass reveal" onclick="showLanguageSelection('sad')">
+                    <div class="category-icon"><i class="fas fa-sad-tear"></i></div>
+                    <h3>স্যাড শায়রি</h3>
+                    <p>বিচ্ছেদের ব্যথা</p>
+                </div>
+                <div class="shayari-category-card glass reveal" onclick="showLanguageSelection('funny')">
+                    <div class="category-icon"><i class="fas fa-laugh-beam"></i></div>
+                    <h3>ফানি শায়রি</h3>
+                    <p>হাসির কবিতা</p>
+                </div>
+            </div>
+
+            <!-- Language Selection -->
+            <div class="language-selection hidden" id="languageSelection">
+                <button class="back-btn" onclick="backToShayariCategories()">
+                    <i class="fas fa-arrow-left"></i> ক্যাটাগরিতে ফিরে যান
+                </button>
+                <h2 class="selection-title">ভাষা নির্বাচন করুন</h2>
+                <div class="language-buttons">
+                    <button class="language-btn glass" onclick="showShayariContent('bengali')">
+                        <span class="lang-icon">🇧🇩</span>
+                        <span class="lang-name">বাংলা</span>
+                    </button>
+                    <button class="language-btn glass" onclick="showShayariContent('english')">
+                        <span class="lang-icon">🇬🇧</span>
+                        <span class="lang-name">English</span>
+                    </button>
+                    <button class="language-btn glass" onclick="showShayariContent('urdu')">
+                        <span class="lang-icon">🇵🇰</span>
+                        <span class="lang-name">اردو</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Shayari Content Display -->
+            <div class="shayari-content hidden" id="shayariContent">
+                <button class="back-btn" onclick="backToLanguageSelection()">
+                    <i class="fas fa-arrow-left"></i> ভাষা পরিবর্তন করুন
+                </button>
+                <h2 class="shayari-category-title" id="shayariCategoryTitle"></h2>
+                <div class="shayari-list" id="shayariList"></div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>মেঘলা &nbsp;বিকেল</h3>
+                <p>&nbsp; &nbsp;জগতে আপনাকে স্বাগতম</p>
+            </div>
+            <div class="footer-section">
+                <h4>Social Media</h4>
+                <div class="social-icons">
+                    <a href="#" class="social-icon"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
+                    <a href="#" class="social-icon"><i class="fab fa-instagram"></i></a>
+                    <a href="#" class="social-icon"><i class="fab fa-youtube"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 Golper Bhandar. সর্বস্বত্ব সংরক্ষিত।
+                <br>Developed by SAMIM</p>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="js/main.js"></script>
+</body>
+
+</html>
