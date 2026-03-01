@@ -683,6 +683,8 @@ body::before {
     object-fit: cover;
     border-radius: 10px;
     transition: transform 0.3s ease;
+    pointer-events: none;
+    user-select: none;
 }
 
 .novel-card:hover .novel-cover-img {
