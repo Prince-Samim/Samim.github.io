@@ -511,7 +511,7 @@ const novelsData = {
         ]
     },
     amrittu: {
-        title: "অদৃশ্য ছোঁয়া <h3>Coming Soon...</h3>",
+        title: "অদৃশ্য ছোঁয়া",
         author: "আব্বুর রাজপুত্র",
         chapters: [{
                 title: "প্রথম অধ্যায়",
@@ -1288,4 +1288,5 @@ console.log('%c🌟 Golper Bhandar 🌟', 'font-size: 24px; font-weight: bold; c
 console.log('%cWelcome to the world of stories, novels, and poetry!', 'font-size: 14px; color: #3b82f6;');
 
 console.log('%cCreated with ❤️ for literature lovers', 'font-size: 12px; color: #ec4899;');
+
 
