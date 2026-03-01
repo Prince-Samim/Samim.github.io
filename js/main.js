@@ -142,7 +142,7 @@ const storiesData = {
 const novelsData = {
     poddoja: {
         title: "কুয়াশায় ঘেরা কৃষ্ণচূড়া",
-        author: "অজানা",
+        author: "আব্বুর রাজপুত্র",
         chapters: [{
                 title: "প্রথম পর্ব: অশুভ সংকেত",
                 content: `
@@ -1286,4 +1286,5 @@ document.addEventListener('keydown', function(e) {
 
 console.log('%c🌟 Golper Bhandar 🌟', 'font-size: 24px; font-weight: bold; color: #a855f7;');
 console.log('%cWelcome to the world of stories, novels, and poetry!', 'font-size: 14px; color: #3b82f6;');
+
 console.log('%cCreated with ❤️ for literature lovers', 'font-size: 12px; color: #ec4899;');
