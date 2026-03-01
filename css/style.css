@@ -674,6 +674,19 @@ body::before {
     font-size: 3rem;
     flex-shrink: 0;
     box-shadow: var(--glow-purple);
+    overflow: hidden;
+}
+
+.novel-cover-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.novel-card:hover .novel-cover-img {
+    transform: scale(1.05);
 }
 
 .novel-info {
