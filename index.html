@@ -194,6 +194,10 @@
                     <button class="toolbar-btn" onclick="backToNovelList()">
                         <i class="fas fa-arrow-left"></i> তালিকায় ফিরে যান
                     </button>
+                    <div class="episode-counter" id="episodeCounter">
+                        <i class="fas fa-book-open"></i>
+                        <span id="episodeCounterText">পর্ব ১ / ৯</span>
+                    </div>
                     <div class="font-controls">
                         <span>ফন্ট সাইজ:</span>
                         <button class="font-btn" onclick="decreaseFontSize()">A-</button>
@@ -202,7 +206,44 @@
                 </div>
                 <div class="reading-content-wrapper">
                     <h1 class="novel-reading-title" id="novelReadingTitle"></h1>
-                    <div class="novel-reading-content" id="novelReadingContent"></div>
+
+                    <!-- Episode Card Container -->
+                    <div class="episode-card" id="episodeCard">
+                        <div class="episode-header">
+                            <div class="episode-number" id="episodeNumber">পর্ব ১</div>
+                            <h2 class="episode-title" id="episodeTitle"></h2>
+                        </div>
+                        <div class="episode-content" id="episodeContent"></div>
+                    </div>
+
+                    <!-- Episode Progress -->
+                    <div class="episode-progress" id="episodeProgress">
+                        <div>আপনার অগ্রগতি</div>
+                        <div class="episode-progress-bar">
+                            <div class="episode-progress-fill" id="episodeProgressFill" style="width: 11%"></div>
+                        </div>
+                        <div id="episodeProgressText">১ মোট ৯টি পর্ব</div>
+                    </div>
+
+                    <!-- Episode Navigation -->
+                    <div class="episode-navigation" id="episodeNavigation">
+                        <button class="episode-nav-btn prev-btn" id="prevEpisodeBtn" onclick="goToPreviousEpisode()" disabled>
+                            <i class="fas fa-arrow-left"></i> আগের পর্ব
+                        </button>
+                        <button class="episode-nav-btn next-btn" id="nextEpisodeBtn" onclick="goToNextEpisode()">
+                            পরবর্তী পর্ব <i class="fas fa-arrow-right"></i>
+                        </button>
+                    </div>
+
+                    <!-- Episode Completion (Hidden by default) -->
+                    <div class="episode-completion hidden" id="episodeCompletion">
+                        <i class="fas fa-check-circle" style="font-size: 3rem; color: var(--accent-purple); margin-bottom: 1rem;"></i>
+                        <h3>অভিনন্দন!</h3>
+                        <p>আপনি এই উপন্যাসের সব পর্ব শেষ করেছেন।</p>
+                        <button class="finish-btn" onclick="backToNovelList()">
+                            <i class="fas fa-list"></i> উপন্যাস তালিকায় ফিরে যান
+                        </button>
+                    </div>
                 </div>
             </div>
         </section>

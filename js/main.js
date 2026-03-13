@@ -1794,7 +1794,531 @@ Rohan ধীরে উঠে দাঁড়ালো।<br>
                 title: "দশম অধ্যায়",
                 content: `
                     <h3>✦ পর্ব ১০ — যখন শিকার শিকারী হয়ে ওঠে ✦</h3>
-                    <p><font color="#FF0000">To be Continued...</font></p>
+                    <p><h1>রাত ৩টা ২৭।</h1><br>
+                    ______________________________________________________________<br>
+ঘরটা প্রায় ধ্বংস হয়ে গেছে।
+ভাঙা কাচ, উল্টে থাকা টেবিল, দেয়ালে ফাটল।
+মেঝেতে অচেতন পড়ে আছে দুজন masked লোক।
+আর মাঝখানে দাঁড়িয়ে Rohan।
+তার বুক উঠানামা করছে।
+কিন্তু তার চোখে এখন আর আগের সেই বিভ্রান্তি নেই।
+একটা অদ্ভুত ঠান্ডা দৃঢ়তা।
+সে ধীরে চারদিকে তাকালো।
+ঘরে আর সেই পরিচিত ঠান্ডা বাতাস নেই।
+না সেই মিষ্টি সুগন্ধ।
+না সেই ফিসফিস কণ্ঠ।
+সে খুব আস্তে বললো—
+“Raisa…”
+নীরবতা।
+এই প্রথমবার সে সত্যিকারের একা।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>শূন্যতার অনুভূতি</b></span><br>
+Rohan হাঁটু গেড়ে বসে পড়লো।
+তার হাত কাঁপছে।
+“তোমাকে সরিয়ে দিল তারা…”
+তার চোখের সামনে ভেসে উঠলো সেই হাসি।
+বৃষ্টির দিনে Raisa বলছে—
+“তুমি না থাকলে আমি হারিয়ে যাবো।”
+আর আজ—
+সে নিজেই হারিয়ে গেছে।
+তার বুকের ভেতর জমে থাকা দুঃখ ধীরে ধীরে অন্য কিছুর রূপ নিচ্ছে।
+রাগ।
+ভয়ংকর রাগ।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>প্রথম জিজ্ঞাসাবাদ</b></span><br>
+মেঝেতে পড়ে থাকা masked লোকদের একজন ধীরে জ্ঞান ফিরলো।
+Rohan তার কলার ধরে টেনে তুললো।
+তার চোখ লাল।
+“Raj কোথায়?”
+লোকটা কাঁপছে।
+“আমি… জানি না…”
+Rohan-এর চারপাশে বাতাস হালকা কাঁপতে লাগলো।
+ভাঙা কাচ মেঝে থেকে একটু উপরে উঠে গেল।
+লোকটা আতঙ্কে চিৎকার করলো—
+“Warehouse… old industrial zone…”
+Rohan ধীরে তাকে ছেড়ে দিল।
+লোকটা অজ্ঞান হয়ে পড়ে গেল।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>নতুন সিদ্ধান্ত</b></span><br>
+ভোরের আলো ফুটছে।
+Rohan ব্যাগে কিছু জিনিস ভরলো।
+Laptop।
+Phone।
+আর সেই পুরোনো newspaper cutting।
+যেখানে Raisa’র নাম লেখা।
+সে ছবিটার দিকে তাকিয়ে বললো—
+“তুমি আমাকে বাঁচিয়েছিলে…”
+“এবার আমি তোমার জন্য লড়বো।”
+হঠাৎ জানালার পাশে হালকা বাতাস বইলো।
+এক সেকেন্ডের জন্য সে সেই পরিচিত সুগন্ধ অনুভব করলো।
+খুব ক্ষীণ।
+প্রায় অদৃশ্য।
+Rohan থেমে গেল।
+“Raisa…?”
+কোন উত্তর নেই।
+কিন্তু তার মনে হলো—
+সে পুরোপুরি হারিয়ে যায়নি।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>Raj-এর আস্তানা</b></span><br>
+শহরের বাইরে পুরোনো industrial zone।
+ভাঙা warehouse।
+ভিতরে Raj দাঁড়িয়ে।
+তার সামনে বড় monitor।
+Screen এ Rohan-এর live location।
+Raj ঠান্ডা গলায় বললো—
+“Subject A-17 finally activated.”
+পাশে দাঁড়ানো scientist বললো—
+“Sir, emotional anchor remove করার পর power unstable হয়ে গেছে।”
+Raj মুচকি হাসলো।
+“Good.”
+“Unstable power easier to break.”
+সে screen এর দিকে তাকালো।
+“Come to me, Rohan…”<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>পথে Rohan</b></span><br>
+Rohan বাইক চালাচ্ছে।
+ভোরের ঠান্ডা বাতাস মুখে লাগছে।
+তার মাথায় শুধু একটা চিন্তা।<br>
+Raisa...<br>
+সে ফিসফিস করলো—<br>
+“তুমি যদি কোথাও থেকেও থাকো… আমাকে guide করো।”<br>
+হঠাৎ তার চোখের সামনে রাস্তার পাশে একটা আলো ঝলক দিল।<br>
+মুহূর্তের জন্য সে দেখলো—<br>
+সাদা পোশাকে একটা মেয়ের অবয়ব দাঁড়িয়ে।<br>
+রাস্তাটা দেখাচ্ছে।<br>
+তার হৃদয় কেঁপে উঠলো।<br>
+“তুমি এখনও আছো…”<br>
+বাইক সেই দিকেই ঘুরলো।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>শেষ দৃশ্য</b></span><br>
+Warehouse এর সামনে Rohan থামলো।
+দরজা আধখোলা।
+ভিতর থেকে আলো বের হচ্ছে।
+সে ভিতরে ঢুকলো।
+বড় হলঘর।
+মাঝখানে Raj দাঁড়িয়ে।
+হাততালি দিল।<br>
+“Welcome back, A-17.”<br>
+Rohan ঠান্ডা গলায় বললো—<br>
+“আমার নাম Rohan.”<br>
+Raj হাসলো।
+“ওটা শুধু একটা নাম।”
+“তোমার আসল পরিচয়… একটা অস্ত্র।”<br>
+ঘরের লাইট জ্বলে উঠলো।
+চারপাশে armed guards।<br>
+Raj এগিয়ে এলো।<br>
+“Let’s see… তুমি কতটা dangerous।”<br>
+Rohan ধীরে মুঠি বন্ধ করলো।
+চারপাশের বাতাস কাঁপতে লাগলো।
+ভাঙা metal pieces মেঝে থেকে উঠে গেল।
+তার চোখে আগুন।
+সে শুধু একটাই কথা বললো—<br>
+“তুমি তাকে মেরেছো।”<br>
+Raj শান্তভাবে বললো—<br>
+“আর এবার তোমার পালা।”
+</p>
+                    
+                `
+            },
+            {
+                title: "একাদশ অধ্যায়",
+                content: `
+                    <h3>✦ পর্ব ১১ — যখন শক্তি নিয়ন্ত্রণ হারায় ✦</h3>
+                    <p><h1>ভোর ৫টা</h1><br>
+                    ______________________________________________________________<br>
+পুরোনো warehouse-এর ভিতর নীরবতা।
+বড় হলঘরের মাঝখানে দাঁড়িয়ে আছে Rohan।
+তার সামনে Raj।
+চারপাশে সশস্ত্র guards।
+কিছু সেকেন্ড কেউ কিছু বললো না।
+শুধু ভারী বাতাস।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>Raj-এর আত্মবিশ্বাস</b></span><br>
+aj ধীরে হাত পকেটে ঢুকিয়ে বললো—<br>
+“তুমি এখানে এসেছো… এটা ভালো।”<br>
+তার ঠোঁটে ঠান্ডা হাসি।<br>
+“কারণ এতদিন আমরা তোমাকে খুঁজছিলাম।”<br>
+Rohan স্থির চোখে তাকিয়ে বললো—<br>
+“তুমি Raisa-কে মেরেছো।”<br>
+Raj কাঁধ ঝাঁকালো।<br>
+“সে ভুল জায়গায় দাঁড়িয়েছিল।”<br>
+এই কথা শুনেই Rohan-এর ভিতরের আগুন জ্বলে উঠলো।
+হঠাৎ চারপাশের বাতাস কাঁপতে শুরু করলো।
+মেঝেতে পড়ে থাকা metal rods ধীরে ধীরে উপরে উঠলো।
+guards একে অপরের দিকে তাকালো।<br>
+“Sir… subject activating…”<br>
+Raj হাত তুলে থামালো।<br>
+“Relax.”<br>
+তার চোখে অদ্ভুত আগ্রহ।<br>
+“Let’s watch.”<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>শক্তির বিস্ফোরণ</b></span><br>
+Rohan ধীরে বললো—<br>
+“তুমি আমার জীবন নষ্ট করেছো।”<br>
+তার মুঠি শক্ত হলো।
+হঠাৎ এক অদৃশ্য শক্তির ঢেউ বের হলো।
+Warehouse-এর কাচ একসাথে ভেঙে গেল।
+দেয়াল কেঁপে উঠলো।
+guards পিছিয়ে গেল।
+কিছু metal pieces গিয়ে দেয়ালে আঘাত করলো।
+একজন guard মাটিতে পড়ে গেল।
+Rohan নিজেই অবাক।
+সে এখনো পুরো control করতে পারছে না।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>Raj-এর পরিকল্পনা</b></span><br>
+Raj শান্তভাবে একটা device বের করলো।
+ছোট black remote।
+সে বোতাম চাপলো।
+হঠাৎ Rohan-এর মাথায় তীব্র ব্যথা।
+সে হাঁটু গেড়ে বসে পড়লো।
+Raj বললো—<br>
+“তোমার brain chip মনে আছে?”
+Rohan কষ্টে মাথা তুললো।
+“Chip?”<br>
+Raj হেসে বললো—<br>
+“Experiment এর সময় তোমার neural system এ control chip বসানো হয়েছিল।”
+সে আবার বোতাম চাপলো।
+ব্যথা বাড়লো।
+Rohan চিৎকার করলো।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>Raisa’র অদৃশ্য সাহায্য</b></span><br>
+ঠিক তখন—<br>
+হলঘরের বাতাস হঠাৎ ঠান্ডা হয়ে গেল।
+একটা অদ্ভুত সুগন্ধ ভেসে এলো।
+Raj ভ্রু কুঁচকালো।
+“Impossible…”<br>
+তার device হঠাৎ glitch করতে লাগলো।
+Screen flicker।
+Rohan ধীরে মাথা তুললো।
+তার সামনে মুহূর্তের জন্য একটা আলোর ছায়া দেখা গেল।
+সাদা পোশাক।
+লম্বা চুল।
+Raisa..<br>
+খুব ক্ষীণ… কিন্তু আছে।
+Rohan ফিসফিস করলো—<br>
+“তুমি… ফিরে এসেছো…”
+কোন শব্দ নেই।
+কিন্তু সেই উপস্থিতি যেন তার চারপাশে একটা ঢাল তৈরি করলো।
+Raj-এর device কাজ করা বন্ধ করে দিল।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>শক্তির জাগরণ</b></span><br>
+ব্যথা হঠাৎ থেমে গেল।
+Rohan দাঁড়িয়ে গেল।
+এইবার তার চোখ আগের চেয়ে শান্ত।
+কিন্তু ভয়ংকর।
+সে বুঝেছে—<br>
+Raisa পুরোপুরি হারায়নি।
+তার অনুভূতির সাথে সে এখনও যুক্ত।
+Raj প্রথমবার একটু অস্থির হলো।
+“Interesting…”
+Rohan ধীরে হাত তুললো।
+চারপাশের সব metal objects একসাথে উঠলো।
+guards panic।
+Raj বললো—<br>
+“Stop him!”
+guards গুলি চালালো।
+কিন্তু গুলিগুলো মাঝপথেই থেমে গেল।
+অদৃশ্য শক্তিতে আটকে।
+তারপর মাটিতে পড়ে গেল।
+সবাই স্তব্ধ।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>শেষ মুহূর্ত</b></span><br>
+Raj ধীরে পিছিয়ে গেল।
+তার ঠোঁটে হালকা হাসি।
+“তুমি অনেক দ্রুত শিখছো…”
+সে দেয়ালের দিকে হাঁটলো।
+একটা hidden door খুললো।
+“কিন্তু এটা শুধু শুরু।”
+সে ভিতরে ঢোকার আগে বললো—
+“Next time… তুমি প্রস্তুত থাকবে না।”
+দরজা বন্ধ।
+Raj অদৃশ্য।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>ধ্বংসস্তূপের মাঝে</b></span><br>
+Warehouse প্রায় ভেঙে পড়েছে।
+guards অচেতন।
+Rohan একা দাঁড়িয়ে।
+সে চারদিকে তাকালো।
+আবার সেই ঠান্ডা বাতাস।
+এক সেকেন্ডের জন্য তার হাতের উপর নরম স্পর্শ।
+Rohan চোখ বন্ধ করলো।
+“ধন্যবাদ…”
+কোন উত্তর নেই।
+কিন্তু সে জানে—
+Raisa এখনও কোথাও আছে।
+</p>
+                    
+                `
+            },
+            {
+                title: "দ্বাদশ অধ্যায়",
+                content: `
+                    <h3>✦ পর্ব ১২ — যে সত্য এখনও লুকানো ✦</h3>
+                    <p>
+                    <br>
+ভোরের আলো পুরোপুরি ছড়িয়ে পড়েছে।
+পুরোনো warehouse এখন প্রায় ধ্বংসস্তূপ।
+ভাঙা কাচ, ভেঙে পড়া লোহার কাঠামো, মেঝেতে অচেতন guards।
+এই বিশৃঙ্খলার মাঝখানে দাঁড়িয়ে Rohan।
+তার বুক এখনো দ্রুত উঠানামা করছে।
+কিছুক্ষণ আগেই সে এমন শক্তি ব্যবহার করেছে, যেটা সে নিজেই পুরো বুঝতে পারছে না।
+সে ধীরে চারপাশে তাকালো।
+Raj পালিয়ে গেছে।
+কিন্তু তার মনে হচ্ছে — এই লড়াই এখানেই শেষ না।
+এটা শুধু শুরু।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>শূন্যতার অনুভূতি</b></span><br>
+Rohan হাঁটু গেড়ে বসে পড়লো।
+তার হাত কাঁপছে।
+“তোমাকে সরিয়ে দিল তারা…”
+তার চোখের সামনে ভেসে উঠলো সেই হাসি।
+বৃষ্টির দিনে Raisa বলছে—
+“তুমি না থাকলে আমি হারিয়ে যাবো।”
+আর আজ—
+সে নিজেই হারিয়ে গেছে।
+তার বুকের ভেতর জমে থাকা দুঃখ ধীরে ধীরে অন্য কিছুর রূপ নিচ্ছে।
+রাগ।
+ভয়ংকর রাগ।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>প্রথম জিজ্ঞাসাবাদ</b></span><br>
+মেঝেতে পড়ে থাকা masked লোকদের একজন ধীরে জ্ঞান ফিরলো।
+Rohan তার কলার ধরে টেনে তুললো।
+তার চোখ লাল।
+“Raj কোথায়?”
+লোকটা কাঁপছে।
+“আমি… জানি না…”
+Rohan-এর চারপাশে বাতাস হালকা কাঁপতে লাগলো।
+ভাঙা কাচ মেঝে থেকে একটু উপরে উঠে গেল।
+লোকটা আতঙ্কে চিৎকার করলো—
+“Warehouse… old industrial zone…”
+Rohan ধীরে তাকে ছেড়ে দিল।
+লোকটা অজ্ঞান হয়ে পড়ে গেল।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>নতুন সিদ্ধান্ত</b></span><br>
+ভোরের আলো ফুটছে।
+Rohan ব্যাগে কিছু জিনিস ভরলো।
+Laptop।
+Phone।
+আর সেই পুরোনো newspaper cutting।
+যেখানে Raisa’র নাম লেখা।
+সে ছবিটার দিকে তাকিয়ে বললো—
+“তুমি আমাকে বাঁচিয়েছিলে…”
+“এবার আমি তোমার জন্য লড়বো।”
+হঠাৎ জানালার পাশে হালকা বাতাস বইলো।
+এক সেকেন্ডের জন্য সে সেই পরিচিত সুগন্ধ অনুভব করলো।
+খুব ক্ষীণ।
+প্রায় অদৃশ্য।
+Rohan থেমে গেল।
+“Raisa…?”
+কোন উত্তর নেই।
+কিন্তু তার মনে হলো—
+সে পুরোপুরি হারিয়ে যায়নি।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>Raj-এর আস্তানা</b></span><br>
+শহরের বাইরে পুরোনো industrial zone।
+ভাঙা warehouse।
+ভিতরে Raj দাঁড়িয়ে।
+তার সামনে বড় monitor।
+Screen এ Rohan-এর live location।
+Raj ঠান্ডা গলায় বললো—
+“Subject A-17 finally activated.”
+পাশে দাঁড়ানো scientist বললো—
+“Sir, emotional anchor remove করার পর power unstable হয়ে গেছে।”
+Raj মুচকি হাসলো।
+“Good.”
+“Unstable power easier to break.”
+সে screen এর দিকে তাকালো।
+“Come to me, Rohan…”<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>পথে Rohan</b></span><br>
+Rohan বাইক চালাচ্ছে।
+ভোরের ঠান্ডা বাতাস মুখে লাগছে।
+তার মাথায় শুধু একটা চিন্তা।<br>
+Raisa...<br>
+সে ফিসফিস করলো—<br>
+“তুমি যদি কোথাও থেকেও থাকো… আমাকে guide করো।”<br>
+হঠাৎ তার চোখের সামনে রাস্তার পাশে একটা আলো ঝলক দিল।<br>
+মুহূর্তের জন্য সে দেখলো—<br>
+সাদা পোশাকে একটা মেয়ের অবয়ব দাঁড়িয়ে।<br>
+রাস্তাটা দেখাচ্ছে।<br>
+তার হৃদয় কেঁপে উঠলো।<br>
+“তুমি এখনও আছো…”<br>
+বাইক সেই দিকেই ঘুরলো।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>শেষ দৃশ্য</b></span><br>
+Warehouse এর সামনে Rohan থামলো।
+দরজা আধখোলা।
+ভিতর থেকে আলো বের হচ্ছে।
+সে ভিতরে ঢুকলো।
+বড় হলঘর।
+মাঝখানে Raj দাঁড়িয়ে।
+হাততালি দিল।<br>
+“Welcome back, A-17.”<br>
+Rohan ঠান্ডা গলায় বললো—<br>
+“আমার নাম Rohan.”<br>
+Raj হাসলো।
+“ওটা শুধু একটা নাম।”
+“তোমার আসল পরিচয়… একটা অস্ত্র।”<br>
+ঘরের লাইট জ্বলে উঠলো।
+চারপাশে armed guards।<br>
+Raj এগিয়ে এলো।<br>
+“Let’s see… তুমি কতটা dangerous।”<br>
+Rohan ধীরে মুঠি বন্ধ করলো।
+চারপাশের বাতাস কাঁপতে লাগলো।
+ভাঙা metal pieces মেঝে থেকে উঠে গেল।
+তার চোখে আগুন।
+সে শুধু একটাই কথা বললো—<br>
+“তুমি তাকে মেরেছো।”<br>
+Raj শান্তভাবে বললো—<br>
+“আর এবার তোমার পালা।”<br>
+</p>
+                    
+                `
+            },
+            {
+                title: "ত্রয়োদশ অধ্যায়",
+                content: `
+                    <h3>✦ পর্ব ১৩ — যে হাসপাতাল সবকিছু শুরু করেছিল ✦</h3>
+                    <p>
+                    <br>
+সন্ধ্যা নেমে এসেছে।<br>
+শহরের প্রান্তে দাঁড়িয়ে আছে একটা পুরোনো, পরিত্যক্ত হাসপাতাল।
+ভাঙা জানালা।
+জং ধরা গেট।
+দেয়ালে পুরোনো সাইনবোর্ড—<br>
+“City Research Medical Center”
+এখানেই একসময় Rohan-এর উপর experiment করা হয়েছিল।
+আজ বহু বছর পর সে আবার সেই জায়গায় দাঁড়িয়ে।
+হালকা বাতাস বইছে।
+গেট ঠেলে ভেতরে ঢুকতেই একটা ঠান্ডা অনুভূতি তাকে ঘিরে ধরলো।
+যেন এই জায়গা তার অতীতকে চিনে ফেলেছে।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>অদ্ভুত পরিচিতি</b></span><br>
+করিডোরে পা রাখতেই তার মাথায় অদ্ভুত চাপ অনুভব হলো।
+দেয়ালের দিকে তাকিয়ে হঠাৎ তার মনে পড়তে লাগলো কিছু দৃশ্য—<br>
+ছোট্ট সে একটা bed-এ শুয়ে আছে।
+চারপাশে সাদা পোশাকের ডাক্তার।
+একজন বলছে—<br>
+“Subject A-17 neural activity abnormal.”<br>
+আরেকজন—<br>
+“Emotion suppress করো। না হলে control করা যাবে না।”
+Rohan দাঁত চেপে বললো—
+“ওরা আমাকে মানুষ ভাবেনি… একটা project ভেবেছিল।”
+তার মুঠি শক্ত হয়ে গেল।
+হঠাৎ hallway-এর শেষ প্রান্তে একটা আলো ঝলক দিল।
+এক সেকেন্ডের জন্য সে দেখলো—
+সাদা পোশাকে একটা মেয়ের ছায়া দাঁড়িয়ে।
+Rohan-এর হৃদয় কেঁপে উঠলো।
+“Raisa…?”<br>
+ছায়াটা ধীরে অন্য করিডোরে চলে গেল।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>স্মৃতির ঘর</b></span><br>
+Rohan সেই দিকেই হাঁটলো।
+একটা দরজার সামনে এসে থামলো।
+দরজার উপর লেখা—<br>
+NEURAL TEST ROOM
+দরজা ঠেলে খুলতেই ধুলো উড়ে উঠলো।
+ভিতরে পুরোনো medical equipment।
+মাঝখানে একটা metal chair।
+হঠাৎ তার মাথায় আবার দৃশ্য ভেসে উঠলো—<br>
+সে সেই চেয়ারে বাঁধা।
+বিদ্যুতের মতো কিছু তার মাথায় লাগানো।
+একটা কণ্ঠ—<br>
+“Emotion trigger increase করো।”<br>
+হঠাৎ তার চারপাশে glass ভেঙে যায়।
+ডাক্তাররা আতঙ্কে পিছিয়ে যায়।
+ছোট্ট Rohan চিৎকার করছে।
+দৃশ্যটা ভেঙে গেল।
+সে হাঁপাতে লাগলো।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>Raisa’র রহস্য</b></span><br>
+ঠিক তখনই বাতাস ঠান্ডা হলো।
+সেই পরিচিত সুগন্ধ।
+Rohan ধীরে বললো—<br>
+“তুমি এখানে… তাই না?”
+তার সামনে হালকা আলো জমতে লাগলো।
+ধীরে ধীরে একটা অবয়ব তৈরি হলো।
+খুব ক্ষীণ।<br>
+কিন্তু স্পষ্ট।<br>
+Raisa<br>
+তার চোখে আগের মতোই কোমলতা।
+কিন্তু শরীর প্রায় স্বচ্ছ।
+Rohan এগিয়ে গেল।
+“তুমি আমাকে এখানে এনেছো?”
+Raisa মাথা নাড়লো।
+তার কণ্ঠ খুব মৃদু—<br>
+“এখানেই তোমার সত্য লুকানো আছে…”<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>লুকানো রেকর্ড</b></span><br>
+হাসপাতালের basement-এ একটা ছোট control room ছিল।
+Raisa সেই দিকেই ইঙ্গিত করলো।
+Rohan দরজা ভেঙে ঢুকলো।
+ভিতরে একটা পুরোনো server এখনো চালু।
+সে computer on করলো।
+screen-এ অনেক file।
+একটা video file সামনে এলো—
+A-17 INITIAL TEST
+Rohan play করলো।
+screen-এ দেখা গেল—
+ছোট্ট Rohan experiment room-এ।
+কিন্তু তার পাশে আরেকটা ছোট মেয়ে দাঁড়িয়ে।
+ভয়ে কাঁপছে।
+Rohan স্থির হয়ে গেল।
+“ওটা… Raisa?”
+video-তে একজন scientist বলছে—
+“Female subject used as emotional trigger.”
+“Subject A-17 power activate করতে emotion দরকার।”
+Rohan-এর চোখ বড় হয়ে গেল।
+মানে—
+Raisa accident-এর আগে থেকেই তার জীবনের সাথে জড়িত ছিল।<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>Raisa’র চোখের জল</b></span><br>
+Raisa ধীরে বললো—
+“আমাকে এখানে আনা হয়েছিল… শুধু তোমাকে activate করার জন্য।”
+তার কণ্ঠ কেঁপে উঠলো।
+“আমি ছিলাম তোমার weakness।”
+Rohan দ্রুত মাথা নাড়লো।
+“না… তুমি ছিলে আমার শক্তি।”
+হঠাৎ পুরো building কেঁপে উঠলো।
+Alarm বাজতে শুরু করলো।
+screen-এ warning—
+“Security breach detected.”<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>Raj আবার হাজির</b></span><br>
+হাসপাতালের বাইরে কালো SUV থামলো।
+Raj গাড়ি থেকে নামলো।
+তার চোখে ঠান্ডা আত্মবিশ্বাস।
+সে বললো—
+“Subject A-17 ঠিক জায়গায় এসেছে।”
+তার পাশে armed team।
+Raj ধীরে হাসলো—
+“এবার experiment শেষ করা যাবে।”<br>
+______________________________________________________________<br>
+<span style="font-size:29px;"><b>শেষ মুহূর্ত</b></span><br>
+Basement-এ দাঁড়িয়ে Rohan alarm শুনছে।
+Raisa আতঙ্কিত।
+“ওরা এসে গেছে…”
+Rohan ধীরে মাথা তুললো।
+তার চোখে দৃঢ়তা।
+“এবার পালাবো না।”
+হঠাৎ তার চারপাশের বাতাস কাঁপতে লাগলো।
+Metal shelves উঠতে শুরু করলো।
+Raisa তার দিকে তাকিয়ে ফিসফিস করলো—
+“Rohan… সাবধান…”
+উপরে দরজা ভেঙে armed লোক ঢুকে পড়লো।
+আর সামনে Raj।
+সে ধীরে হাততালি দিল।
+“Welcome home, A-17.”
+</p>
+                    
+                `
+            },
+
+            {
+                title: "চতুর্দশ অধ্যায়",
+                content: `
+                    <h3>✦ পর্ব ১৪ — যখন অতীত আর বর্তমান মুখোমুখি হয় ✦</h3>
+                    <p><marquee behavior="scroll" direction="right" scrollamount="5"><font color="#FF0000">To be Continued...</font></p>
                     
                 `
             }
@@ -1869,6 +2393,11 @@ const shayariData = {
 let currentSection = 'home';
 let currentFontSize = 1.2;
 let currentShayariCategory = '';
+
+// Novel reading state
+let currentNovelId = null;
+let currentEpisodeIndex = 0;
+let currentNovelChapters = [];
 let currentShayariLanguage = '';
 
 // ========================================
@@ -2137,18 +2666,18 @@ function readNovel(novelId) {
     const novel = novelsData[novelId];
     if (!novel) return;
 
+    // Store current novel data
+    currentNovelId = novelId;
+    currentNovelChapters = novel.chapters;
+    currentEpisodeIndex = 0;
+
     document.getElementById('novelList').classList.add('hidden');
     document.getElementById('novelReadingPage').classList.remove('hidden');
 
     document.getElementById('novelReadingTitle').textContent = novel.title;
 
-    // Combine all chapters
-    let content = '';
-    novel.chapters.forEach(chapter => {
-        content += chapter.content;
-    });
-
-    document.getElementById('novelReadingContent').innerHTML = content;
+    // Show first episode
+    displayEpisode(currentEpisodeIndex);
 
     // Reset font size
     currentFontSize = 1.2;
@@ -2157,9 +2686,99 @@ function readNovel(novelId) {
     window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
+// Display a specific episode
+function displayEpisode(index) {
+    if (index < 0 || index >= currentNovelChapters.length) return;
+
+    const chapter = currentNovelChapters[index];
+    const totalEpisodes = currentNovelChapters.length;
+
+    // Update episode number and title
+    document.getElementById('episodeNumber').textContent = `পর্ব ${index + 1}`;
+    document.getElementById('episodeTitle').textContent = chapter.title;
+    document.getElementById('episodeContent').innerHTML = chapter.content;
+
+    // Update episode counter
+    document.getElementById('episodeCounterText').textContent = `পর্ব ${index + 1} / ${totalEpisodes}`;
+
+    // Update progress
+    const progressPercent = ((index + 1) / totalEpisodes) * 100;
+    document.getElementById('episodeProgressFill').style.width = `${progressPercent}%`;
+    document.getElementById('episodeProgressText').textContent = `${index + 1} মোট ${totalEpisodes}টি পর্ব`;
+
+    // Update navigation buttons
+    const prevBtn = document.getElementById('prevEpisodeBtn');
+    const nextBtn = document.getElementById('nextEpisodeBtn');
+    const completionDiv = document.getElementById('episodeCompletion');
+    const navigationDiv = document.getElementById('episodeNavigation');
+    const cardDiv = document.getElementById('episodeCard');
+    const progressDiv = document.getElementById('episodeProgress');
+
+    // Previous button
+    prevBtn.disabled = index === 0;
+
+    // Next button - show completion on last episode
+    if (index === totalEpisodes - 1) {
+        nextBtn.innerHTML = 'শেষ করুন <i class="fas fa-check"></i>';
+    } else {
+        nextBtn.innerHTML = 'পরবর্তী পর্ব <i class="fas fa-arrow-right"></i>';
+    }
+
+    // Hide completion message, show navigation and card
+    completionDiv.classList.add('hidden');
+    navigationDiv.classList.remove('hidden');
+    cardDiv.classList.remove('hidden');
+    progressDiv.classList.remove('hidden');
+
+    // Scroll to top
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+// Go to next episode
+function goToNextEpisode() {
+    const totalEpisodes = currentNovelChapters.length;
+
+    if (currentEpisodeIndex < totalEpisodes - 1) {
+        currentEpisodeIndex++;
+        displayEpisode(currentEpisodeIndex);
+    } else {
+        // Show completion message
+        showCompletion();
+    }
+}
+
+// Go to previous episode
+function goToPreviousEpisode() {
+    if (currentEpisodeIndex > 0) {
+        currentEpisodeIndex--;
+        displayEpisode(currentEpisodeIndex);
+    }
+}
+
+// Show completion message
+function showCompletion() {
+    const completionDiv = document.getElementById('episodeCompletion');
+    const navigationDiv = document.getElementById('episodeNavigation');
+    const cardDiv = document.getElementById('episodeCard');
+    const progressDiv = document.getElementById('episodeProgress');
+
+    cardDiv.classList.add('hidden');
+    navigationDiv.classList.add('hidden');
+    progressDiv.classList.add('hidden');
+    completionDiv.classList.remove('hidden');
+
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
 function backToNovelList() {
     document.getElementById('novelReadingPage').classList.add('hidden');
     document.getElementById('novelList').classList.remove('hidden');
+
+    // Reset novel reading state
+    currentNovelId = null;
+    currentEpisodeIndex = 0;
+    currentNovelChapters = [];
+
     window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
@@ -2176,7 +2795,7 @@ function decreaseFontSize() {
 }
 
 function updateFontSize() {
-    const content = document.getElementById('novelReadingContent');
+    const content = document.getElementById('episodeContent');
     if (content) {
         content.style.fontSize = `${currentFontSize}rem`;
     }

@@ -544,7 +544,7 @@ body::before {
 .story-card:hover {
     transform: translateY(-5px);
     box-shadow: var(--shadow-card);
-    border-color: rgba(168, 85, 247, 0.4);
+    border-color: rgba(167, 85, 247, 0.4);
 }
 
 .story-card h4 {
@@ -835,6 +835,265 @@ body::before {
 .novel-reading-content p {
     margin-bottom: 1.5rem;
     text-align: justify;
+}
+
+
+/* ========================================
+   Episode Card Navigation
+   ======================================== */
+
+
+/* Episode Card Container */
+
+.episode-card {
+    background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
+    border-radius: 20px;
+    padding: 3rem;
+    margin-bottom: 2rem;
+    box-shadow: var(--shadow-card);
+    animation: fadeInUp 0.6s ease-out;
+    position: relative;
+    overflow: hidden;
+}
+
+.episode-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: var(--primary-gradient);
+}
+
+
+/* Episode Header */
+
+.episode-header {
+    text-align: center;
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--glass-border);
+}
+
+.episode-number {
+    font-family: var(--font-bengali);
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    margin-bottom: 0.5rem;
+    letter-spacing: 2px;
+}
+
+.episode-title {
+    font-family: var(--font-bengali);
+    font-size: 1.75rem;
+    color: var(--accent-purple);
+    margin: 0;
+    text-shadow: 0 0 20px rgba(168, 85, 247, 0.3);
+}
+
+
+/* Episode Content */
+
+.episode-content {
+    font-family: var(--font-bengali);
+    font-size: 1.15rem;
+    line-height: 2.2;
+    color: var(--text-primary);
+}
+
+.episode-content p {
+    margin-bottom: 1.5rem;
+    text-align: justify;
+}
+
+.episode-content h3 {
+    font-size: 1.4rem;
+    margin: 2rem 0 1rem;
+    color: var(--accent-purple);
+}
+
+.episode-content h1 {
+    font-size: 1.5rem;
+    margin: 1.5rem 0 1rem;
+    color: var(--accent-blue);
+    text-align: center;
+}
+
+
+/* Episode Progress */
+
+.episode-progress {
+    text-align: center;
+    margin: 2rem 0;
+    font-family: var(--font-bengali);
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+}
+
+.episode-progress-bar {
+    width: 200px;
+    height: 6px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    margin: 0.75rem auto;
+    overflow: hidden;
+}
+
+.episode-progress-fill {
+    height: 100%;
+    background: var(--primary-gradient);
+    border-radius: 10px;
+    transition: width 0.4s ease;
+}
+
+
+/* Episode Navigation */
+
+.episode-navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--glass-border);
+}
+
+.episode-nav-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1rem 2rem;
+    background: var(--glass-bg);
+    border: 2px solid var(--glass-border);
+    border-radius: 50px;
+    color: var(--text-primary);
+    font-family: var(--font-bengali);
+    font-size: 1rem;
+    cursor: pointer;
+    transition: var(--transition-smooth);
+    min-width: 160px;
+    justify-content: center;
+}
+
+.episode-nav-btn:hover:not(:disabled) {
+    background: var(--accent-purple);
+    border-color: var(--accent-purple);
+    box-shadow: var(--glow-purple);
+    transform: translateY(-2px);
+}
+
+.episode-nav-btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+}
+
+.episode-nav-btn.next-btn {
+    background: var(--primary-gradient);
+    border-color: transparent;
+}
+
+.episode-nav-btn.next-btn:hover:not(:disabled) {
+    box-shadow: 0 0 30px rgba(102, 126, 234, 0.6);
+    transform: translateY(-2px) scale(1.02);
+}
+
+.episode-nav-btn i {
+    font-size: 0.9rem;
+    transition: transform 0.3s ease;
+}
+
+.episode-nav-btn:hover:not(:disabled) i.fa-arrow-left {
+    transform: translateX(-5px);
+}
+
+.episode-nav-btn:hover:not(:disabled) i.fa-arrow-right {
+    transform: translateX(5px);
+}
+
+
+/* Episode Counter Badge */
+
+.episode-counter {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: rgba(168, 85, 247, 0.15);
+    border: 1px solid var(--accent-purple);
+    border-radius: 25px;
+    font-family: var(--font-bengali);
+    font-size: 0.85rem;
+    color: var(--accent-purple);
+}
+
+
+/* Completion Message */
+
+.episode-completion {
+    text-align: center;
+    padding: 3rem 2rem;
+    background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
+    border-radius: 20px;
+    margin-top: 2rem;
+}
+
+.episode-completion h3 {
+    font-family: var(--font-bengali);
+    font-size: 1.5rem;
+    color: var(--accent-purple);
+    margin-bottom: 1rem;
+}
+
+.episode-completion p {
+    font-family: var(--font-bengali);
+    color: var(--text-secondary);
+    margin-bottom: 1.5rem;
+}
+
+.episode-completion .finish-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 1rem 2.5rem;
+    background: var(--primary-gradient);
+    border: none;
+    border-radius: 50px;
+    color: white;
+    font-family: var(--font-bengali);
+    font-size: 1rem;
+    cursor: pointer;
+    transition: var(--transition-smooth);
+}
+
+.episode-completion .finish-btn:hover {
+    box-shadow: 0 0 30px rgba(102, 126, 234, 0.6);
+    transform: scale(1.05);
+}
+
+
+/* Responsive */
+
+@media (max-width: 768px) {
+    .episode-card {
+        padding: 1.5rem;
+    }
+    .episode-title {
+        font-size: 1.4rem;
+    }
+    .episode-content {
+        font-size: 1rem;
+    }
+    .episode-navigation {
+        flex-direction: column;
+    }
+    .episode-nav-btn {
+        width: 100%;
+        min-width: unset;
+    }
 }
 
 
